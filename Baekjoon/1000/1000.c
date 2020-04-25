@@ -1,6 +1,3 @@
-# 정답코드
-
-```c
 #include <stdio.h>
 
 int main()
@@ -10,5 +7,3 @@ int main()
     printf("%d\n", A + B);
     return 0;
 }
-```
-
