@@ -32,6 +32,12 @@
         <li><a href="https://github.com/kimseungbin/Algorithm/tree/master/Baekjoon/2884">알람 시계</a></li>
     </ul>
 </details>
-
-
 ### 분류
+
+<details>
+    <summary><b>재귀 호출</b></summary>
+    <ul>
+        <li><a href="https://github.com/kimseungbin/Algorithm/tree/master/Baekjoon/4811">알약</a></li>
+    </ul>
+</details>
+
