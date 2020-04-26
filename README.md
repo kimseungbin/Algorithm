@@ -22,12 +22,16 @@
         <li><a href="https://github.com/kimseungbin/Algorithm/tree/master/Baekjoon/2588">곱셈</a></li>
     	</ul>
 </details>
-
 <details>
     <summary><b>if문</b></summary>
     <ul>
         <li><a href="https://github.com/kimseungbin/Algorithm/tree/master/Baekjoon/1330">두 수 비교하기</a></li>
+        <li><a href="https://github.com/kimseungbin/Algorithm/tree/master/Baekjoon/9498">시험 성적</a></li>
+        <li><a href="https://github.com/kimseungbin/Algorithm/tree/master/Baekjoon/2753">윤년</a></li>
+        <li><a href="https://github.com/kimseungbin/Algorithm/tree/master/Baekjoon/14681">사분면 고르기</a></li>
+        <li><a href="https://github.com/kimseungbin/Algorithm/tree/master/Baekjoon/2884">알람 시계</a></li>
     </ul>
 </details>
+
 
 ### 분류
