@@ -4,6 +4,8 @@
 
 ## Baekjoon Online Judge
 
+### 단계별
+
 <details>
     <summary><b>입출력과 사칙연산</b></summary>
     <ul>
@@ -21,3 +23,11 @@
     	</ul>
 </details>
 
+<details>
+    <summary><b>if문</b></summary>
+    <ul>
+        <li><a href="https://github.com/kimseungbin/Algorithm/tree/master/Baekjoon/1330">두 수 비교하기</a></li>
+    </ul>
+</details>
+
+### 분류
