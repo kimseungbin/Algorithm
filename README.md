@@ -57,4 +57,14 @@
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/4811">알약</a></li>
     </ul>
 </details>
+<details>
+    <summary><b>배열</b></summary>
+    <ul>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/2920">음계</a></li>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/3052">나머지</a></li>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/2798">블랙잭</a></li>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/2953">나는 요리사다</a></li>
+    </ul>
+</details>
+
 
