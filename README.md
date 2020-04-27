@@ -32,7 +32,15 @@
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/2884">알람 시계</a></li>
     </ul>
 </details>
-
+<details>
+    <summary><b>for문</b></summary>
+    <ul>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/2739">구구단</a></li>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/10950">A+B-3</a></li>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/8393">합</a></li>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/15552">빠른 A+B</a></li>
+    </ul>
+</details>
 
 
 ### 분류별
@@ -43,5 +51,4 @@
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/4811">알약</a></li>
     </ul>
 </details>
-
 
