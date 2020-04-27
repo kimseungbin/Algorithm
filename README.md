@@ -36,12 +36,18 @@
     <summary><b>for문</b></summary>
     <ul>
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/2739">구구단</a></li>
-        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/10950">A+B-3</a></li>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/10950">A+B -3</a></li>
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/8393">합</a></li>
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/15552">빠른 A+B</a></li>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/2741">N 찍기</a></li>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/2742">기찍 N</a></li>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/11021">A+B -7</a></li>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/11022">A+B -8</a></li>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/2438">별 찍기 -1</a></li>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/2439">별 찍기 -2</a></li>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/10871">X보다 작은 수</a></li>
     </ul>
 </details>
-
 
 ### 분류별
 
