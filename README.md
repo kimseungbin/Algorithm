@@ -48,6 +48,15 @@
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/10871">X보다 작은 수</a></li>
     </ul>
 </details>
+<details>
+    <summary><b>while문</b></summary>
+    <ul>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/10952">A+B -5</a></li>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/10951">A+B -4</a></li>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/1110">더하기 사이클</a></li>
+    </ul>
+</details>
+
 
 ### 분류별
 
@@ -66,5 +75,4 @@
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/2953">나는 요리사다</a></li>
     </ul>
 </details>
-
 
