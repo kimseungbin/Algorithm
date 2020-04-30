@@ -56,7 +56,17 @@
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/1110">더하기 사이클</a></li>
     </ul>
 </details>
-
+<details>
+    <summary><b>1차원 배열</b></summary>
+    <ul>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/10818">최소, 최대</a></li>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/2562">최댓값</a></li>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/2577">숫자의 개수</a></li>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/1546">평균</a></li>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/8958">OX퀴즈</a></li>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/4344">평균은 넘겠지</a></li>
+    </ul>
+</details>
 
 ### 분류별
 
