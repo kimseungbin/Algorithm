@@ -85,4 +85,11 @@
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/2953">나는 요리사다</a></li>
     </ul>
 </details>
-
+<details>
+    <summary><b>함수</b></summary>
+    <ul>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/15596">정수 N개의 합</a></li>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/4673">셀프 넘버</a></li>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/1065">한수</a></li>
+    </ul>
+</details>
