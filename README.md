@@ -75,8 +75,6 @@
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/1065">한수</a></li>
     </ul>
 </details>
-
-
 ### 분류별
 
 <details>
@@ -92,5 +90,11 @@
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/3052">나머지</a></li>
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/2798">블랙잭</a></li>
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/2953">나는 요리사다</a></li>
+    </ul>
+</details>
+<details>
+    <summary><b>스택</b></summary>
+    <ul>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/10828">스택</a></li>
     </ul>
 </details>
