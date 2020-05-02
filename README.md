@@ -75,6 +75,8 @@
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/1065">한수</a></li>
     </ul>
 </details>
+
+
 ### 분류별
 
 <details>
@@ -96,5 +98,6 @@
     <summary><b>스택</b></summary>
     <ul>
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/10828">스택</a></li>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/9012">괄호</a></li>
     </ul>
 </details>
