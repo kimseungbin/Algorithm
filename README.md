@@ -102,4 +102,10 @@
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/1874">스택 수열</a></li>
     </ul>
 </details>
+<details>
+    <summary><b>큐</b></summary>
+    <ul>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/10845">큐</a></li>
+    </ul>
+
 
