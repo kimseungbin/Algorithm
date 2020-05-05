@@ -106,6 +106,8 @@
     <summary><b>큐</b></summary>
     <ul>
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/10845">큐</a></li>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/1966">프린터 큐</a></li>
     </ul>
+
 
 
