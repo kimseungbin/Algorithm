@@ -113,7 +113,9 @@
     <summary><b>연결 리스트</b></summary>
     <ul>
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/1158">요세푸스 문제</a></li>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/1406">에디터</a></li>
     </ul>
 </details>
+
 
 
