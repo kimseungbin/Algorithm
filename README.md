@@ -100,6 +100,7 @@
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/10828">스택</a></li>
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/9012">괄호</a></li>
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/1874">스택 수열</a></li>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/2493">탑</a></li>
     </ul>
 </details>
 <details>
@@ -117,6 +118,7 @@
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/5397">키로거</a></li>
     </ul>
 </details>
+
 
 
 
