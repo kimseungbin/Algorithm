@@ -115,6 +115,7 @@
     <ul>
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/10845">큐</a></li>
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/1966">프린터 큐</a></li>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/13335">트럭</a></li>
     </ul>
 </details>
 <details>
@@ -125,6 +126,7 @@
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/5397">키로거</a></li>
     </ul>
 </details>
+
 
 
 
