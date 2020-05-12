@@ -79,6 +79,7 @@
     <summary><b>문자열</b></summary>
     <ul>
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/11654">아스키 코드</a></li>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/11720">숫자의 합</a></li>
     </ul>
 </details>
 
