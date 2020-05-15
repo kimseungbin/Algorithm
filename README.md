@@ -82,8 +82,10 @@
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/11720">숫자의 합</a></li>
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/10809">알파벳 찾기</a></li>
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/2675">문자열 반복</a></li>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/1157">단어 공부</a></li>
     </ul>
 </details>
+
 
 
 
