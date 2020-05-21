@@ -86,8 +86,10 @@
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/1152">단어의 개수</a></li>
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/2908">상수</a></li>
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/5622">다이얼</a></li>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/2941">크로아티아 알파벳</a></li>
     </ul>
 </details>
+
 
 
 
