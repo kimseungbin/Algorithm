@@ -87,8 +87,10 @@
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/2908">상수</a></li>
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/5622">다이얼</a></li>
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/2941">크로아티아 알파벳</a></li>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/1316">그룹 단어 체커</a></li>
     </ul>
 </details>
+
 
 
 
