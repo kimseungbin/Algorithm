@@ -1,6 +1,8 @@
 # Algorithm
 
-알고리즘 문제풀이 저장소
+알고리즘 문제풀이 저장소 
+
+사용 언어 : C
 
 ## Baekjoon Online Judge
 
@@ -94,9 +96,9 @@
     <summary><b>수학 1</b></summary>
     <ul>
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/1712">손익분기점</a></li>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/2839">설탕 배달</a></li>
     </ul>
 </details>
-
 
 
 
