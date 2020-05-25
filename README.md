@@ -90,7 +90,12 @@
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/1316">그룹 단어 체커</a></li>
     </ul>
 </details>
-
+<details>
+    <summary><b>수학 1</b></summary>
+    <ul>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/1712">손익분기점</a></li>
+    </ul>
+</details>
 
 
 
