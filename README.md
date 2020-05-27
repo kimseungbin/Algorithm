@@ -97,8 +97,10 @@
     <ul>
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/1712">손익분기점</a></li>
         <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/2839">설탕 배달</a></li>
+        <li><a href="https://github.com/seungbin-kim/Algorithm/tree/master/Baekjoon/2292">벌집</a></li>
     </ul>
 </details>
+
 
 
 
